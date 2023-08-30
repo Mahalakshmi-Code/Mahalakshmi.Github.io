@@ -1,4 +1,5 @@
 **Book URL:** [Mining of Massive Datasets](<URL>)
+
 **Authors:**
 - Jure Leskovec (Stanford University)
 - Anand Rajaraman (Milliway Labs)
